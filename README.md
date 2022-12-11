@@ -11,6 +11,7 @@
   - 📖 Domain Driven Design by Eric Evans,
   - 📖 Lean Inception by Paulo Carolli,
   - 📖 Sprint a Sprint by [Mary Provinciatto](https://github.com/maryprovinciatto),
-  - 📖 Lean Startup by Eric Ries and the Gang of Four...
+  - 📖 Lean Startup by Eric Ries 
+  - 📖 Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (Gang of Four)
  
 #### ✉ ewertondaniel@icloud.com
