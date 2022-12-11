@@ -2,7 +2,7 @@
 - 👀 I'm here to learn more and more every day
 - 🌱 I’m currently learning PHP, RUST, JS and relearning COBOL, FORTRAN, RUBY, JAVA and C/C++...
 - 📚 I'm currently reading 
-     Clean Code by Uncle Bob [@unclebob](https://github.com/unclebob), 
+     Clean Code by [Uncle Bob](https://github.com/unclebob), 
      Domain Driven Design by Eric Evans,
      Sprint a Sprint by [Mary Provinciatto](https://github.com/maryprovinciatto)
      Lean Inception by Paulo Carolli, 
