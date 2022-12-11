@@ -4,7 +4,7 @@
 - 📚 I'm currently reading 
      Clean Code by Uncle Bob [@unclebob](https://github.com/unclebob), 
      Domain Driven Design by Eric Evans,
-     Sprint a Sprint by [Mary Provinciatto] (https://github.com/maryprovinciatto)
+     Sprint a Sprint by [Mary Provinciatto](https://github.com/maryprovinciatto)
      Lean Inception by Paulo Carolli, 
      Lean Startup by Eric Ries and the Gang of Four...
 - ✉ ewertondaniel@icloud.com ...
