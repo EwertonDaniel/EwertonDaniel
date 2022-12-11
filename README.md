@@ -12,4 +12,5 @@
   - 📖 Lean Inception by Paulo Carolli,
   - 📖 Sprint a Sprint by [Mary Provinciatto](https://github.com/maryprovinciatto),
   - 📖 Lean Startup by Eric Ries and the Gang of Four...
-  - ✉ ewertondaniel@icloud.com ...
+ 
+#### ✉ ewertondaniel@icloud.com
