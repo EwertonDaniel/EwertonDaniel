@@ -7,11 +7,9 @@
 - 🧑‍💻 I'm here to learn more and more every day...
 - 📝 I’m currently learning GOLANG, RUST and relearning COBOL, RUBY and C/C++...
 - 📚 I'm currently reading:
-  - 📖 Clean Code by [Uncle Bob](https://github.com/unclebob), 
-  - 📖 Domain Driven Design by Eric Evans,
+  - 📖 Clean Architecture: A Craftsman's Guide to Software Structure and Design by [Uncle Bob](https://github.com/unclebob), 
+  - 📖 Refactoring: Improving the Design of Existing Code by Martin Fowler,
   - 📖 Lean Inception by Paulo Carolli,
   - 📖 Sprint a Sprint by [Mary Provinciatto](https://github.com/maryprovinciatto),
-  - 📖 Lean Startup by Eric Ries 
-  - 📖 Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (Gang of Four)
  
 #### ✉ ewertondaniel@icloud.com
