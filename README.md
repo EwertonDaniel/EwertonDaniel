@@ -5,7 +5,4 @@
 - 🧑‍💻 I'm here to learn more and more every day...
 - 📝 I’m currently learning GO, Ruby an RUST...
 - 📚 I'm currently reading:
-  - 📖 Clean Architecture: A Craftsman's Guide to Software Structure and Design by [Uncle Bob](https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E),
-  - 📖 Implementing Domain-Driven Design by [Vaughn Vernon](https://www.amazon.com/stores/Vaughn-Vernon/author/B0096T71SA), 
-  - 📖 Refactoring: Improving the Design of Existing Code by [Martin Fowler](https://www.amazon.com/-/pt/stores/author/B000AQ6PGM),
 #### ✉ ewertondaniel@icloud.com
